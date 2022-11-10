@@ -8,3 +8,4 @@ b = 4 + 3
 c= b*2
 
 print(a)
+print("hey peeps!")
